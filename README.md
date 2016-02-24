@@ -1,2 +1,6 @@
-# base-alpine [![Docker Repository on Quay.io](https://quay.io/repository/justcontainers/base-alpine/status "Docker Repository on Quay.io")](https://quay.io/repository/justcontainers/base-alpine)
-A simple but powerful base image, based on Alpine Linux
+# alpine-s6
+
+Tell me this is unnecessary, I just want a trusted image with s6overlay
+
+https://github.com/just-containers/base-alpine
+https://github.com/just-containers/s6-overlay
